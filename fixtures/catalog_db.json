@@ -1,0 +1,105 @@
+[
+{
+  "model": "catalog.city",
+  "pk": 1,
+  "fields": {
+    "title": "Odessa"
+  }
+},
+{
+  "model": "catalog.city",
+  "pk": 2,
+  "fields": {
+    "title": "Kyiv"
+  }
+},
+{
+  "model": "catalog.city",
+  "pk": 3,
+  "fields": {
+    "title": "Dnipro"
+  }
+},
+{
+  "model": "catalog.city",
+  "pk": 4,
+  "fields": {
+    "title": "Lviv"
+  }
+},
+{
+  "model": "catalog.product",
+  "pk": 1,
+  "fields": {
+    "name": "TV"
+  }
+},
+{
+  "model": "catalog.product",
+  "pk": 2,
+  "fields": {
+    "name": "Internet"
+  }
+},
+{
+  "model": "catalog.product",
+  "pk": 3,
+  "fields": {
+    "name": "Games"
+  }
+},
+{
+  "model": "catalog.client",
+  "pk": 1,
+  "fields": {
+    "name": "Julia",
+    "actions": 2,
+    "offer": [
+      2
+    ]
+  }
+},
+{
+  "model": "catalog.client",
+  "pk": 2,
+  "fields": {
+    "name": "Danylo",
+    "actions": 3,
+    "offer": [
+      3
+    ]
+  }
+},
+{
+  "model": "catalog.client",
+  "pk": 3,
+  "fields": {
+    "name": "Yurii",
+    "actions": 1,
+    "offer": [
+      1
+    ]
+  }
+},
+{
+  "model": "catalog.executor",
+  "pk": 1,
+  "fields": {
+    "name": "Stas"
+  }
+},
+{
+  "model": "catalog.executor",
+  "pk": 2,
+  "fields": {
+    "name": "Bogdan"
+  }
+},
+{
+  "model": "catalog.executor",
+  "pk": 3,
+  "fields": {
+    "name": "Egor"
+  }
+}
+]
