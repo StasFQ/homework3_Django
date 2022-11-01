@@ -5,10 +5,10 @@
     <title>Title</title>
 </head>
 <body>
-<form action="/triangle/" method="get">
+<form action="{% url 'geometry:triangle' %}" method="get">
     {{ form.as_p }}
     <input type="submit" name="submit" value="OK">
-    <p>гипотенуза равна {{ gip }}</p>
+    <p>Гипотенуза равна {{ gip }}</p>
 </form>
 </body>
 </html>
