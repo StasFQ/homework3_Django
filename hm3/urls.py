@@ -20,5 +20,5 @@ from geometry.views import triangle
 
 urlpatterns = [
     path('admin/', admin.site.urls),
-    path('triangle/', include('geometry.urls'))
+    path('triangle/', include('geometry.urls')),
 ]
