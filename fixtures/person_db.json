@@ -1,0 +1,65 @@
+[
+{
+  "model": "geometry.person",
+  "pk": 1,
+  "fields": {
+    "first_name": "Stas",
+    "last_name": "Poperechniy",
+    "email": "example@example.com"
+  }
+},
+{
+  "model": "geometry.person",
+  "pk": 2,
+  "fields": {
+    "first_name": "Aleksandr",
+    "last_name": "Makedonskyi",
+    "email": "AlexMak@gmail.com"
+  }
+},
+{
+  "model": "geometry.person",
+  "pk": 3,
+  "fields": {
+    "first_name": "Djaina",
+    "last_name": "Praudmur",
+    "email": "djainaPraudmur@ukr.net"
+  }
+},
+{
+  "model": "geometry.person",
+  "pk": 4,
+  "fields": {
+    "first_name": "Orest",
+    "last_name": "Noname",
+    "email": "Orestat@gmail.com"
+  }
+},
+{
+  "model": "geometry.person",
+  "pk": 5,
+  "fields": {
+    "first_name": "Zahar",
+    "last_name": "Berkut",
+    "email": "Zaha@mail.com"
+  }
+},
+{
+  "model": "geometry.person",
+  "pk": 6,
+  "fields": {
+    "first_name": "Silvana",
+    "last_name": "Green",
+    "email": "SilvGr@gmail.com"
+  }
+},
+{
+  "model": "geometry.person",
+  "pk": 7,
+  "fields": {
+    "first_name": "James",
+    "last_name": "Bond",
+    "email": "JSBond@ukr.net"
+  }
+}
+]
